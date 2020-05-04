@@ -1,0 +1,13 @@
+C:\Users\greatwolfe\Desktop\SurvivorSimulator\bin\Debug\netcoreapp3.1\SurvivorSimulator.exe
+C:\Users\greatwolfe\Desktop\SurvivorSimulator\bin\Debug\netcoreapp3.1\SurvivorSimulator.deps.json
+C:\Users\greatwolfe\Desktop\SurvivorSimulator\bin\Debug\netcoreapp3.1\SurvivorSimulator.runtimeconfig.json
+C:\Users\greatwolfe\Desktop\SurvivorSimulator\bin\Debug\netcoreapp3.1\SurvivorSimulator.runtimeconfig.dev.json
+C:\Users\greatwolfe\Desktop\SurvivorSimulator\bin\Debug\netcoreapp3.1\SurvivorSimulator.dll
+C:\Users\greatwolfe\Desktop\SurvivorSimulator\bin\Debug\netcoreapp3.1\SurvivorSimulator.pdb
+C:\Users\greatwolfe\Desktop\SurvivorSimulator\obj\Debug\netcoreapp3.1\SurvivorSimulator.csprojAssemblyReference.cache
+C:\Users\greatwolfe\Desktop\SurvivorSimulator\obj\Debug\netcoreapp3.1\SurvivorSimulator.csproj.CoreCompileInputs.cache
+C:\Users\greatwolfe\Desktop\SurvivorSimulator\obj\Debug\netcoreapp3.1\SurvivorSimulator.AssemblyInfoInputs.cache
+C:\Users\greatwolfe\Desktop\SurvivorSimulator\obj\Debug\netcoreapp3.1\SurvivorSimulator.AssemblyInfo.cs
+C:\Users\greatwolfe\Desktop\SurvivorSimulator\obj\Debug\netcoreapp3.1\SurvivorSimulator.dll
+C:\Users\greatwolfe\Desktop\SurvivorSimulator\obj\Debug\netcoreapp3.1\SurvivorSimulator.pdb
+C:\Users\greatwolfe\Desktop\SurvivorSimulator\obj\Debug\netcoreapp3.1\SurvivorSimulator.genruntimeconfig.cache
