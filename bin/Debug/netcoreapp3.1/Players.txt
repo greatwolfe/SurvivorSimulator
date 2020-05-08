@@ -1,0 +1,43 @@
+Ike: Trickiness: 40 Athleticism: 6 Endurance: 54 Survivability: 2 Puzzlesolving 79
+Elijah: Trickiness: 41 Athleticism: 24 Endurance: 78 Survivability: 13 Puzzlesolving 46
+Logan: Trickiness: 81 Athleticism: 4 Endurance: 99 Survivability: 11 Puzzlesolving 12
+Greil: Trickiness: 4 Athleticism: 13 Endurance: 1 Survivability: 76 Puzzlesolving 57
+Rolf: Trickiness: 2 Athleticism: 82 Endurance: 20 Survivability: 74 Puzzlesolving 3
+Ahron: Trickiness: 62 Athleticism: 76 Endurance: 96 Survivability: 52 Puzzlesolving 6
+Jacques: Trickiness: 78 Athleticism: 61 Endurance: 38 Survivability: 77 Puzzlesolving 6
+Frederick: Trickiness: 14 Athleticism: 58 Endurance: 21 Survivability: 27 Puzzlesolving 3
+Ephraim: Trickiness: 21 Athleticism: 52 Endurance: 27 Survivability: 36 Puzzlesolving 14
+Wallace: Trickiness: 42 Athleticism: 58 Endurance: 39 Survivability: 38 Puzzlesolving 97
+Paisley: Trickiness: 6 Athleticism: 3 Endurance: 60 Survivability: 18 Puzzlesolving 41
+Clair: Trickiness: 51 Athleticism: 63 Endurance: 99 Survivability: 26 Puzzlesolving 67
+Luna: Trickiness: 100 Athleticism: 100 Endurance: 47 Survivability: 89 Puzzlesolving 58
+Eleanor: Trickiness: 93 Athleticism: 68 Endurance: 16 Survivability: 41 Puzzlesolving 46
+Isabella: Trickiness: 9 Athleticism: 99 Endurance: 39 Survivability: 36 Puzzlesolving 76
+Est: Trickiness: 63 Athleticism: 62 Endurance: 9 Survivability: 8 Puzzlesolving 2
+Lute: Trickiness: 47 Athleticism: 29 Endurance: 9 Survivability: 71 Puzzlesolving 13
+Cherche: Trickiness: 39 Athleticism: 93 Endurance: 49 Survivability: 43 Puzzlesolving 43
+Anna: Trickiness: 96 Athleticism: 44 Endurance: 78 Survivability: 13 Puzzlesolving 28
+Julia: Trickiness: 92 Athleticism: 60 Endurance: 91 Survivability: 41 Puzzlesolving 34
+Petrine: Trickiness: 25 Athleticism: 21 Endurance: 37 Survivability: 13 Puzzlesolving 28
+Sumia: Trickiness: 92 Athleticism: 44 Endurance: 96 Survivability: 95 Puzzlesolving 47
+Erika: Trickiness: 89 Athleticism: 31 Endurance: 90 Survivability: 63 Puzzlesolving 13
+Cynthia: Trickiness: 76 Athleticism: 74 Endurance: 39 Survivability: 14 Puzzlesolving 6
+Ilyana: Trickiness: 94 Athleticism: 50 Endurance: 46 Survivability: 61 Puzzlesolving 45
+Penelope: Trickiness: 27 Athleticism: 54 Endurance: 74 Survivability: 93 Puzzlesolving 13
+Faye: Trickiness: 65 Athleticism: 58 Endurance: 90 Survivability: 50 Puzzlesolving 11
+Claire: Trickiness: 42 Athleticism: 28 Endurance: 94 Survivability: 8 Puzzlesolving 45
+Fiora: Trickiness: 22 Athleticism: 98 Endurance: 100 Survivability: 49 Puzzlesolving 71
+Naomi: Trickiness: 1 Athleticism: 50 Endurance: 34 Survivability: 98 Puzzlesolving 40
+Cato: Trickiness: 0 Athleticism: 15 Endurance: 70 Survivability: 61 Puzzlesolving 27
+Julius: Trickiness: 95 Athleticism: 50 Endurance: 64 Survivability: 11 Puzzlesolving 39
+Samuel: Trickiness: 100 Athleticism: 52 Endurance: 53 Survivability: 51 Puzzlesolving 75
+Clive: Trickiness: 43 Athleticism: 74 Endurance: 44 Survivability: 5 Puzzlesolving 31
+Brammimond: Trickiness: 72 Athleticism: 56 Endurance: 52 Survivability: 63 Puzzlesolving 41
+Jon: Trickiness: 18 Athleticism: 24 Endurance: 47 Survivability: 42 Puzzlesolving 14
+Karel: Trickiness: 31 Athleticism: 35 Endurance: 38 Survivability: 27 Puzzlesolving 50
+Kieran: Trickiness: 65 Athleticism: 82 Endurance: 47 Survivability: 2 Puzzlesolving 70
+Bartre: Trickiness: 97 Athleticism: 26 Endurance: 56 Survivability: 57 Puzzlesolving 46
+Gareth: Trickiness: 99 Athleticism: 11 Endurance: 48 Survivability: 22 Puzzlesolving 83
+Merge
+Wallace Won an puzzle competition
+Ilyana has been voted out

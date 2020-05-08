@@ -548,7 +548,7 @@ namespace SurvivorSimulator
             List<player> remain = new List<player> { };
             remain.AddRange(guys);
             Random rnd = new Random();
-            for(int x = 0; x < 10;)
+            for(int x = 0; x < 10; x++)
             {
                 foreach(player dude in guys)
                 {
